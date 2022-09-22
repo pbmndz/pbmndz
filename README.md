@@ -12,8 +12,9 @@ robotics
 <h3 align="left">🛠️ My Tech Stacks:</h3>
 
 ### How to reach me:
-[![facebook](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://www.facebook.com/pbmndz16/)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbmndz&show_icons=true&theme=radical)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22mq6f5vtxflmolsn2zgjizoa&count={count})

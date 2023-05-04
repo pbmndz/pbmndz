@@ -15,6 +15,3 @@ robotics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbmndz&show_icons=true&theme=radical)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22mq6f5vtxflmolsn2zgjizoa&count={count})

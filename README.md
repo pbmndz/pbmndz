@@ -1,6 +1,6 @@
 ### 🧭  About Me
 
-- 🏫 I am a grade 11 STEM student and self taught programmer
+- 🏫 I am a grade 12 STEM student and self taught programmer
 - 🤓 Always learning new things
 - 💬 Ask me about any technology.
 - ⚡ Fun fact: I'm a potato
